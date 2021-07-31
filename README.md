@@ -1,6 +1,10 @@
 # Hot-Milker
 A script made to generate Hot Milk meme from two images.
 
+# Before u go:
+1. Make sure u have Python
+2. Make sure u have MediaPy
+
 # How to use:
 
 1. Import it to your python script. Call the only function ```hotmilkify()```
