@@ -23,4 +23,4 @@ def hotmilkify(clip1 , clip2):
 
     video = CompositeVideoClip(clips,size = (800,800))
 
-    video.set_duration(29).write_videofile("test.mp4", fps=20) 
+    video.set_duration(28).write_videofile("test.mp4", fps=20) 
