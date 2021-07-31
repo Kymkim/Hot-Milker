@@ -7,7 +7,7 @@ A script made to generate Hot Milk meme from two images.
 2. Profit
 
 Example
-```
+```python
 #imports hotmilker
 import hotmilker
 
