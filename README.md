@@ -27,9 +27,19 @@ hotmilker.hotmilkify(img_1, img_2)
 ## hotmilkify(img_1, img_2, **kwargs)
 ### set_offset = int
 Changes the audio offset. .8 by default.
-Example:
+
 ```python
+#Example: Changes the offset to 1
 hotmiker.hotmilkify("not-sussus-amogus.png", "very-sussy-amogus", set_offset = 1)
+```
+
+### set_resize = int
+Changes the resize type. The other one sucks, the other one dosent. Planning to add more functionality in the far future. NONE by default
+```python
+#Example: Changes the resize mode to square.
+#   1 = square
+#   NONE = no resize
+hotmiker.hotmilkify("not-sussus-amogus.png", "very-sussy-amogus", set_resize = 1)
 ```
 
 # All music credits goes to Ujico*/Snails house
