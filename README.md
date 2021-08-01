@@ -30,7 +30,7 @@ Changes the audio offset. .8 by default.
 
 ```python
 #Example: Changes the offset to 1
-hotmilker.hotmilkify("not-sussus-amogus.png", "very-sussy-amogus", set_offset = 1)
+hotmilker.hotmilkify("not-sussus-amogus.png", "impostersus.png", set_offset = 1)
 ```
 
 ### set_resize = int
@@ -39,7 +39,7 @@ Changes the resize type. The other one sucks, the other one dosent. Planning to 
 #Example: Changes the resize mode to square.
 #   1 = square
 #   NONE = no resize
-hotmilker.hotmilkify("not-sussus-amogus.png", "very-sussy-amogus", set_resize = 1)
+hotmilker.hotmilkify("not-sussus-amogus.png", "impostersus.png", set_resize = 1)
 ```
 
 ### set_fps = int
@@ -48,21 +48,21 @@ Changes the FPS. Too high value will tremendously increase the render time. 20 b
 #Example: Changes the FPS to 60
 #   1 = square
 #   NONE = no resize
-hotmilker.hotmilkify("not-sussus-amogus.png", "very-sussy-amogus", set_fps = 60)
+hotmilker.hotmilkify("not-sussus-amogus.png", "impostersus.png", set_fps = 60)
 ```
 
 ### custom_dimensions = (width, height)
 Changes the dimensions in (width, height) format. Too high value will tremendously increase the rendertime. (800, 800) by default
 ```python
 #Example: Changes the dimensions to 1980x1080
-hotmilker.hotmilkify("not-sussus-amogus.png", "very-sussy-amogus", custom_dimesions = (1980,1080))
+hotmilker.hotmilkify("not-sussus-amogus.png", "impostersus.png", custom_dimesions = (1980,1080))
 ```
 
 ### output_location = path/to/file
 Changes the location of the output. Same location as where the script is located by default
 ```python
 #Example: Changes the output location to /imposter/vent/
-hotmilker.hotmilkify("not-sussus-amogus.png", "very-sussy-amogus", output_location = "/imposter/vent/")
+hotmilker.hotmilkify("not-sussus-amogus.png", "impostersus.png", output_location = "/imposter/vent/")
 ```
 
 # All music credits goes to Ujico*/Snails house
