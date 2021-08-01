@@ -20,7 +20,16 @@ clip1 = input("Image 1: ")
 clip2 = input("Image 2: ")
 
 #Profit
-hotmilker.hotmilkify(clip1, clip2)
+hotmilker.hotmilkify(img_1, img_2)
+```
+
+# A manual... I guess
+## hotmilkify(img_1, img_2, **kwargs)
+### set_offset = int
+Changes the audio offset. .8 by default.
+Example:
+```python
+hotmiker.hotmilkify("not-sussus-amogus.png", "very-sussy-amogus", set_offset = 1)
 ```
 
 # All music credits goes to Ujico*/Snails house
