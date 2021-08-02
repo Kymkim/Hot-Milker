@@ -46,8 +46,6 @@ hotmilker.hotmilkify("not-sussus-amogus.png", "impostersus.png", set_resize = 1)
 Changes the FPS. Too high value will tremendously increase the render time. 20 by default
 ```python
 #Example: Changes the FPS to 60
-#   1 = square
-#   NONE = no resize
 hotmilker.hotmilkify("not-sussus-amogus.png", "impostersus.png", set_fps = 60)
 ```
 
